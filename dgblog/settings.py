@@ -25,7 +25,7 @@ SECRET_KEY = 'whrewab4^+#(pv#xhnh-f^iea6$v#fr10r1ha!5%7-q%&(mse6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pharingee.pythonanywhere.com']
 
 
 # Application definition
